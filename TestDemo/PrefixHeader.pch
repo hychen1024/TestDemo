@@ -1,0 +1,16 @@
+//
+//  PrefixHeader.pch
+//  TestDemo
+//
+//  Created by huyuchen on 2018/9/11.
+//  Copyright © 2018年 Hyc. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "CommonConfig.h"
+
+#import "YCButton.h"
+
+#endif /* PrefixHeader_pch */
